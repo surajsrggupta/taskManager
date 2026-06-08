@@ -20,7 +20,7 @@ const Login = () => {
     setError("");
     setLoading(true);
     try {
-      const response = await api.post("/auth/login",formData);
+      const response = await api.post("/auth/login", formData);
       console.log("respone data ka", response.data);
       login(response.data.user, response.data.token);
       navigate("/dashboard");
@@ -95,7 +95,7 @@ const Login = () => {
             to="/register"
             className="text-blue-600 font-medium hover:underline"
           >
-            Register karo
+            Register
           </Link>
         </p>
       </div>
