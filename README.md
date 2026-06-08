@@ -71,7 +71,7 @@ TaskManager/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/task-manager.git
+git clone https://github.com/surajsrggupta/taskManager.git
 cd task-manager/backend
 ```
 
