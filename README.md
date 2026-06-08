@@ -140,8 +140,8 @@ http://localhost:5173
 
 ## 📸 Screenshots
 
-![Login Page](screenshots/login.png)
-![Dashboard](screenshots/dashboard.png)
+![Login Page](Screenshots/LoginPage.png)
+![Dashboard](Screenshots/dashboard.png)
 
 ## 👨‍💻 Author
 **Mr. Suraj Gupta**
